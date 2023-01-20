@@ -30,7 +30,7 @@ public class App
     	  System.out.println("Press 1 for add new student");
           System.out.println("Press 2 for display all student");
           System.out.println("Press 3 for get details of single student");
-          System.out.println("Press 4 for delete student");
+          System.out .println("Press 4 for delete student");
           System.out.println("Press 5 for update student");
           System.out.println("Press 6 for exit");
           
